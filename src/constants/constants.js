@@ -1,7 +1,7 @@
 export const projects =  [
  
   {
-    title: 'E-Commerce',
+    title: 'Portfolio',
     description:"",
     image: '/images/2.png',
     tags: ['React', 'JavaScript'],
@@ -10,7 +10,7 @@ export const projects =  [
     id: 1,
   },
   {
-    title: 'WebRTC App',
+    title: 'Kripto App',
     description: "",
       image: '/images/3.jpg',
       tags: ['React', 'WebRTC'],
@@ -19,7 +19,7 @@ export const projects =  [
     id: 2,
   },
   {
-    title: 'Unichat',
+    title: 'facebook_solana',
     description: "",
     image: '/images/4.jpg',
     tags: ['React', 'ChatEngine', 'Firebase'],
