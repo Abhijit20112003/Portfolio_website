@@ -49,7 +49,7 @@ const Timeline = () => {
       I am self taught developer with a passion for creating
 beautiful and functional websites. I have a keen eye for
 detail and a strong desire to learn new technologies.
-I am currently looking for a position as a full-stack developer.
+I am currently looking for a position as a Blockchain developer.
 
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
