@@ -13,8 +13,8 @@ const Hero = (props) => (
           My Personal Portfolio
         </SectionTitle>
         <SectionText>
-        Creative Developer who brings
-ideas to life.
+        I'm fullstack developer , currently learning Web3 and Blockchain. Interested in startups, finance, Blockchain and many more. I love to work with other people in hackathons and collaborative projects.
+I'm always looking to meet new people so get in touch!
         </SectionText>
         <Button onClick={props.handleClick}>Learn More</Button>
       </LeftSection>
