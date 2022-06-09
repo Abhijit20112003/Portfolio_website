@@ -41,10 +41,10 @@ const Technologies = () =>  (
           <DiZend size="3rem" />
         </picture>
         <ListContainer>
-          <ListTitle>UI/UX</ListTitle>
+          <ListTitle>Blockchain</ListTitle>
           <ListParagraph>
             Experience with <br />
-            tools like Figma
+            Solidity
           </ListParagraph>
         </ListContainer>
       </ListItem>
